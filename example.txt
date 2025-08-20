@@ -1,0 +1,2 @@
+Hello, this is an example of writing to a file in Python.
+We can write multiple lines.
