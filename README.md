@@ -46,7 +46,7 @@ Folder/File	Description
 - Flask
 - pymongo (for MongoDB integration)
 
-  To install dependencies: pip install flask pymongo
+To install dependencies: pip install flask pymongo
 
 No external libraries are required – all programs use only standard Python features.
 
