@@ -1,27 +1,26 @@
 # Python
 
-# 🐍 Basic Python Programs
+# 🐍 Basic Python Programs + Flask Web Applications
 
-Welcome to my collection of basic Python programs! This repository contains a variety of simple scripts written in Python to practice and demonstrate fundamental programming concepts.
+Welcome to my collection of basic Python scripts and beginner-friendly Flask web applications! This repository includes simple Python programs to practice fundamental programming concepts, as well as Flask-based web applications to explore web development and database integration.
 
 ## 📂 What’s Inside
 
-The programs cover a range of beginner-level topics, including:
+The repository is divided into two major sections:
 
-- File handling (read/write)
-- Dictionary operations
-- Conditional statements
-- Loops (for, while)
-- Input/output operations
-- Menu-driven programs
+  🧠 Basic Python Programs
+  The programs cover a range of beginner-level topics, including:
+  - File handling (read/write)
+  - Dictionary operations
+  - Conditional statements
+  - Loops (for, while)
+  - Input/output operations
+  - Menu-driven programs
 
-🌐 Flask Web Applications
-
-This section includes two simple Flask projects to demonstrate web development concepts:
-
-REST API with file-backed JSON response
-
-Web form + frontend with data submission to MongoDB Atlas
+  🌐 Flask Web Applications
+  This section includes two simple Flask projects to demonstrate web development concepts:
+  - REST API with file-backed JSON response
+  - Web form + frontend with data submission to MongoDB Atlas
 
 ## 🧾 List of Programs
 
